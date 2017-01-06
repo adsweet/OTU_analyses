@@ -1,3 +1,9 @@
+###############################################################################################
+#Use this script to sample random trees from a distribution of trees (i.e. a BEAST .trees file)
+#and run bGMYC to estimate optimal OTU clustering
+#Used in Sweet et al. in prep
+################################################################################################
+
 library(ape)
 library(bGMYC)
 
