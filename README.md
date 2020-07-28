@@ -2,4 +2,5 @@
 Organized by project
 
 ### Physconelloides_genomes
-OTU scripts for Sweet et al. in prep
+Scripts for OTU analysis of dove body lice (Physconelloides).
+Sweet et al. 2018. Evolution. 72:95-112
